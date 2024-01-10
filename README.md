@@ -3,4 +3,4 @@ Nombre:Fernando Alcon Gutierrez
 
 Materia:INF 122
 
-Color Favorito:#0F36D8
+Color Favorito:#FF0000
